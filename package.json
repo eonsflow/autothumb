@@ -1,8 +1,8 @@
 {
   "type": "module",
   "dependencies": {
-    "@vercel/og": "https://codeload.github.com/vercel/og/tar.gz/main"
-  },
+  "@vercel/og": "https://codeload.github.com/vercel/og/tar.gz/main"
+},
   "scripts": {
     "build": "echo 'no build needed'"
   }
