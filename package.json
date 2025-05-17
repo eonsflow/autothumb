@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@vercel/og": "vercel/og"
+  },
+  "scripts": {
+    "build": "echo 'no build needed'"
+  }
+}
