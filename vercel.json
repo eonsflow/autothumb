@@ -4,10 +4,7 @@
       "src": "/api/og",
       "dest": "api/og.tsx"
     }
-  ]
-}
-
-{
+  ],
   "buildCommand": "",
   "outputDirectory": null
 }
