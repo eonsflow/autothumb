@@ -1,8 +1,9 @@
 {
   "type": "module",
   "dependencies": {
-    "@vercel/og": "vercel/og"
-  },
+  "@vercel/og": "https://github.com/vercel/og/archive/refs/heads/main.tar.gz"
+},
+
   "scripts": {
     "build": "echo 'no build needed'"
   }
