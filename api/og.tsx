@@ -27,10 +27,6 @@ export default async function handler(req) {
       <text x="600" y="315" font-size="48" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif">\${title}</text>
     </svg>
     \`,
-    {
-      headers: {
-        "Content-Type": "image/svg+xml"
-      }
-    }
+    { headers: { "Content-Type": "image/svg+xml" } }
   );
 }
